@@ -17,7 +17,7 @@ modelos_pred/
 └── README.md
 ```
 
-> **Nota:** El fichero `E3Lab_modelo.csv` (~29 MB) no se incluye en el repositorio por superar el límite de GitHub. Puedes descargarlo desde [aquí](#) o solicitarlo al autor.
+> **Nota:** El fichero `E3Lab_modelo.csv` (~29 MB) no se incluye en el repositorio por superar el límite de GitHub.
 
 ---
 
@@ -74,9 +74,4 @@ jupyter notebook
 - **Período:** 2022–2024.
 - **Dataset de modelado:** `E3Lab_modelo.csv` (generado por el notebook de preprocesamiento).
 
----
 
-## Autor
-
-**José Ignacio Esteban González**  
-Máster en Ciencia de Datos e Inteligencia Artificial — Universidad de Navarra
