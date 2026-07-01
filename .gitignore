@@ -1,0 +1,24 @@
+# Datos (archivo grande — usar Git LFS o descargar por separado)
+E3Lab_modelo.csv
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Entornos virtuales
+.env
+.venv/
+venv/
+
+# Jupyter temporal
+*.nbconvert.ipynb
+
+# Notebooks con sufijos de copia (versiones limpias ya incluidas)
+*\ copy.ipynb
+*_copy.ipynb
