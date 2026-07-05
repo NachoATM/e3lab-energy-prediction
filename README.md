@@ -15,7 +15,7 @@ e3lab-energy-prediction/
 │   │   ├── data_loader.py               # DataLoader — carga y unión de CSVs Grafana + meteo
 │   │   ├── cleaner.py                   # DataCleaner — nulos, outliers, interpolación
 │   │   ├── feature_engineer.py          # FeatureEngineer — variable objetivo, lags, agregados
-│   │   └── visualizer.py               # PreprocessingVisualizer — guarda PNGs por planta/estación
+│   │   └── visualizer.py                # PreprocessingVisualizer — guarda PNGs por planta/estación
 │   └── models/
 │       ├── base_model.py                # BaseModel abstracta + helpers (evaluar, plot_prediccion)
 │       ├── ridge.py                     # RidgeModel
