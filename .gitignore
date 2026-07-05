@@ -1,5 +1,12 @@
-# Datos (archivo grande — usar Git LFS o descargar por separado)
+# Datos (archivos grandes o externos — usar Git LFS o descargar por separado)
 E3Lab_modelo.csv
+E3Lab_modelo_1h.csv
+feature_sets_tfm_1h.json
+data/
+
+# Salidas y gráficos generados
+notebooks/Graficos/
+**/Graficos/
 
 # macOS
 .DS_Store
