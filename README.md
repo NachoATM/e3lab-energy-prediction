@@ -29,10 +29,11 @@ e3lab-energy-prediction/
 │   └── figures/
 │       ├── preprocessing/               # PNGs del análisis exploratorio
 │       └── models/                      # PNGs de predicciones, residuos, importancias, SHAP
+├── notebooks/
+│   ├── TFM_E3Lab_Preprocesamiento.ipynb # Notebook original — referencia
+│   └── TFM_E3Lab_Modelos5.ipynb         # Notebook original — referencia
 ├── run_preprocessing.py                 # Punto de entrada — bloque 1
-├── run_models.py                        # Punto de entrada — bloque 2
-└── TFM_E3Lab_Preprocesamiento.ipynb    # Notebooks originales (referencia)
-    TFM_E3Lab_Modelos5.ipynb
+└── run_models.py                        # Punto de entrada — bloque 2
 ```
 
 > `E3Lab_modelo.csv` (~29 MB) no se incluye en el repositorio por superar el límite de GitHub.
